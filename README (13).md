@@ -42,19 +42,13 @@ cd try-devnet/packages/contract/
 bash script/deploy.sh
 ```
 
-#### Next, you will receive a wallet, where you need to deposit the test ETH you received in the first step. Send 0.1 ETH there. Below is an example of what it looks like.
-
-[![Screenshot-7.png](https://i.postimg.cc/prRQBFLM/Screenshot-7.png)](https://postimg.cc/vg26YDn0)
-
-#### wait a few minutes for the tokens to reach this wallet, and then simply press enter. You will see the following image: 
+#### Next, you will see a wallet address, Send some faucet 0.15 ETH to that address then enter, Below is an example of what it looks like.
 
 [![Screenshot-8.png](https://i.postimg.cc/28Xv1JhD/Screenshot-8.png)](https://postimg.cc/56LjGss7)
 
-### Done!
+### Now 1st contract completed...
 
-### Interaction with an extended contract: 
-
-#### Code:
+### Interaction with an Bun contract: 
 
 ```
 curl -fsSL https://bun.sh/install | bash
@@ -72,26 +66,7 @@ bun install
 ```
 bash script/transact.sh  / executing a transaction
 ```
+### Now we completed the devnet contract interaction, Next step follow the telegram thread...
 
-## DONE! 
 
-
-#### Additional links Seismic Devnet:
-```
-Network Name: Seismic devnet
-
-Currency Symbol: ETH
-
-Chain ID: 5124
-
-RPC URL (HTTP): https://node-2.seismicdev.net/rpc
-
-RPC URL (WebSocket): wss://node-2.seismicdev.net/ws
-
-Explorer: https://explorer-2.seismicdev.net
-
-Faucet: https://faucet-2.seismicdev.net
-
-Starter Repo: https://github.com/SeismicSystems/seismic-starter
-```
-## MY X: https://x.com/o7xabz
+### Star this Repo...
