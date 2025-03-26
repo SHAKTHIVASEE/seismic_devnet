@@ -63,8 +63,9 @@ bun --version
 cd ../cli/
 bun install
 ```
+Same as above steps send some faucet to shown address & Executing a transactions...
 ```
-bash script/transact.sh  / executing a transaction
+bash script/transact.sh  
 ```
 ### Now we completed the devnet contract interaction, Next step follow the telegram thread...
 
