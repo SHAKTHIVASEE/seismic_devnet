@@ -1,10 +1,6 @@
 # Deploy an encrypted contract Devnet Seismic 
 
-### Also, to get started, visit the project's official faucet and get test ETH tokens on the Devnet Seismic network.
-
-#### Link: https://faucet-2.seismicdev.net/
-
-#### Code:
+# Use Gitpod to depoly 
 
 ```
 sudo apt update
